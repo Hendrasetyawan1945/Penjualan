@@ -1,8 +1,8 @@
 1. Nama   : Aco Wahyudi
    NIM    : H2020000001
    JK     : Laki - Laki
-   Agama  : Islam
-   TTL    : Ambon, 19 Agustus 2003
+   Agama  : Kristen
+   TTL    : Ambon, 19 Agustus 2000
    Alamat : Jln. Loa Bakung RT.21 No.04
  
 2. Nama   : Erna Mulyani
@@ -19,10 +19,10 @@
    TTL    : Samarinda, 22 Desember 2002
    Alamat : Jln. Keledang RT.13 No.26
  
-4. Nama   : Ilham ILyas
+4. Nama   : Karni Ilham ILyas
    NIM    : H2020000004
    JK     : Laki - Laki
-   Agama  : Islam
+   Agama  : Jepang
    TTL    : Pinrang, 10 Maret 2003
    Alamat : Jln. Mangkupalas RT.07 No.12
  
